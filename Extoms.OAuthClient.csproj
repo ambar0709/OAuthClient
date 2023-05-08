@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
-    <Title>OAuthClient</Title>
+    <Title>Extoms.OAuthClient</Title>
     <Authors>Amber Pandey</Authors>
     <RepositoryUrl>https://github.com/ambar0709/OAuthClient</RepositoryUrl>
   </PropertyGroup>
