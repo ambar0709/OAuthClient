@@ -4,6 +4,10 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
+    <Title>OAuthClient</Title>
+    <Authors>Amber Pandey</Authors>
+    <RepositoryUrl>https://github.com/ambar0709/OAuthClient</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>

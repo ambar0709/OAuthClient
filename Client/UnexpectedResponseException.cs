@@ -1,6 +1,6 @@
 using RestSharp;
 
-namespace OAuthClient
+namespace Extoms.OAuth
 {
     /// <summary>
     /// Indicates unexpected response from service.

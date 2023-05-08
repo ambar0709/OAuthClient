@@ -1,10 +1,10 @@
-﻿using OAuthClient.Configuration;
-using OAuthClient.Infrastructure;
-using OAuthClient.Models;
+﻿using Extoms.OAuth.Infrastructure;
+using Extoms.OAuth.Models;
 using Newtonsoft.Json.Linq;
 using RestSharp;
+using Extoms.OAuth.Configuration;
 
-namespace OAuthClient.Client
+namespace Extoms.OAuth.Client
 {
     /// <summary>
     /// Google OAuth2 Client Implementation

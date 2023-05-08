@@ -1,8 +1,8 @@
 using System.Collections.Specialized;
-using OAuthClient.Configuration;
-using OAuthClient.Models;
+using Extoms.OAuth.Configuration;
+using Extoms.OAuth.Models;
 
-namespace OAuthClient.Client
+namespace Extoms.OAuth.Client
 {
     /// <summary>
     /// Defines API for doing user authentication using certain third-party service.

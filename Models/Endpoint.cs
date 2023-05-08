@@ -1,4 +1,4 @@
-namespace OAuthClient.Models
+namespace Extoms.OAuth.Models
 {
     /// <summary>
     /// Defines endpoint URI (service address).

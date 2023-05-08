@@ -1,7 +1,7 @@
 ﻿using System.Collections.Specialized;
-using OAuthClient.Client;
+using Extoms.OAuth.Client;
 
-namespace OAuthClient.Infrastructure
+namespace Extoms.OAuth.Infrastructure
 {
     public static class NameValueCollectionExtensions
     {

@@ -1,13 +1,13 @@
 using System.Collections.Specialized;
 using System.Web;
-using OAuthClient.Configuration;
-using OAuthClient.Infrastructure;
+using Extoms.OAuth.Infrastructure;
 using RestSharp;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
-using OAuthClient.Models;
+using Extoms.OAuth.Models;
+using Extoms.OAuth.Configuration;
 
-namespace OAuthClient.Client
+namespace Extoms.OAuth.Client
 {
     public abstract class OAuth2Client : IClient
     {

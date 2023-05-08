@@ -1,17 +1,17 @@
-﻿using OAuthClient.Configuration;
-using OAuthClient.Infrastructure;
-using OAuthClient.Models;
+﻿using Extoms.OAuth.Infrastructure;
+using Extoms.OAuth.Models;
 using Newtonsoft.Json.Linq;
 using RestSharp;
+using Extoms.OAuth.Configuration;
 
-namespace OAuthClient.Client
+namespace Extoms.OAuth.Client
 {
     public class AzureADOAuthClient : OAuth2Client, IClient
     {
         private const string Prompt = "select_account";
 
         /// <summary>
-        /// Initializes a new instance of the <see cref="GoogleOAuth2Client"/> class.
+        /// Initializes a new instance of the <see cref="AzureADOAuthClient"/> class.
         /// </summary>
         /// <param name="factory">The factory.</param>
         /// <param name="configuration">The configuration.</param>

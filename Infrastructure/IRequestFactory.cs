@@ -1,6 +1,6 @@
 using RestSharp;
 
-namespace OAuthClient.Infrastructure
+namespace Extoms.OAuth.Infrastructure
 {
     /// <summary>
     /// Intended for REST client/request creation.

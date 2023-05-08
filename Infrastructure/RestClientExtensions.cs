@@ -1,8 +1,7 @@
 ﻿using System.Net;
-using OAuthClient.Models;
 using RestSharp;
 
-namespace OAuthClient.Infrastructure
+namespace Extoms.OAuth.Infrastructure
 {
     public static class RestClientExtensions
     {

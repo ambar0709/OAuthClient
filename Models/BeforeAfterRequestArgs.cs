@@ -1,8 +1,8 @@
 using System.Collections.Specialized;
-using OAuthClient.Configuration;
+using Extoms.OAuth.Configuration;
 using RestSharp;
 
-namespace OAuthClient.Models
+namespace Extoms.OAuth.Models
 {
     public class BeforeAfterRequestArgs
     {

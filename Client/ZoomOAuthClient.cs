@@ -1,10 +1,10 @@
-﻿using OAuthClient.Configuration;
-using OAuthClient.Infrastructure;
+﻿using Extoms.OAuth.Infrastructure;
 using Newtonsoft.Json.Linq;
 using RestSharp;
-using OAuthClient.Models;
+using Extoms.OAuth.Models;
+using Extoms.OAuth.Configuration;
 
-namespace OAuthClient.Client
+namespace Extoms.OAuth.Client
 {
     /// <summary>
     /// Class Zoom OAuth Client.

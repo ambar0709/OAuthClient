@@ -1,4 +1,4 @@
-﻿namespace OAuthClient.Infrastructure
+﻿namespace Extoms.OAuth.Infrastructure
 {
     public static class StringExtensions
     {

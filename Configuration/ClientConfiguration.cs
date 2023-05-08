@@ -1,4 +1,4 @@
-﻿namespace OAuthClient.Configuration
+﻿namespace Extoms.OAuth.Configuration
 {
     /// <summary>
     /// Runtime client configuration. 

@@ -1,6 +1,6 @@
 using RestSharp;
 
-namespace OAuthClient.Infrastructure
+namespace Extoms.OAuth.Infrastructure
 {
     /// <summary>
     /// Default implementation of <see cref="IRequestFactory"/>.

@@ -1,7 +1,7 @@
-﻿using OAuthClient.Models;
+﻿using Extoms.OAuth.Models;
 using RestSharp;
 
-namespace OAuthClient.Infrastructure
+namespace Extoms.OAuth.Infrastructure
 {
     public static class RequestFactoryExtensions
     {

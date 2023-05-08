@@ -1,4 +1,4 @@
-namespace OAuthClient.Models
+namespace Extoms.OAuth.Models
 {
     /// <summary>
     /// Contains information about user who is being authenticated.

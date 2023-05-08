@@ -1,4 +1,4 @@
-namespace OAuthClient.Configuration
+namespace Extoms.OAuth.Configuration
 {
     /// <summary>
     /// Configuration of third-party authentication service client.
